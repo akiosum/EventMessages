@@ -4,10 +4,10 @@ Este repositório é dedicado ao desenvolvimento de um sistema de eventos de men
 
 ## Sumário 📑
 
-1. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-2. [Projetos Vinculados](#projetos-vinculados)
+1. [Tecnologias Utilizadas 🛠️](#tecnologias-utilizadas)
+2. [Projetos Vinculados 🔗](#projetos-vinculados)
 
-## Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas
 
 Este projeto utiliza várias tecnologias avançadas para garantir um funcionamento eficaz:
 
@@ -17,7 +17,7 @@ Este projeto utiliza várias tecnologias avançadas para garantir um funcionamen
 
 Explore essas tecnologias para entender como elas contribuem para a eficiência do sistema de eventos de mensagens compartilhados.
 
-## Projetos Vinculados 🔗
+## Projetos Vinculados
 
 Este projeto está conectado a outros microservices e utiliza bibliotecas auxiliares para otimizar o desenvolvimento:
 
